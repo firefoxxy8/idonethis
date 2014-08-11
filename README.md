@@ -6,7 +6,7 @@ A simple Ruby client for the [iDoneThis API](https://idonethis.com/api/)
 
 Add this line to your application's Gemfile:
 
-    gem 'idonethis', github: 'stympy/idonethis'
+    gem 'idonethis'
 
 And then execute:
 
